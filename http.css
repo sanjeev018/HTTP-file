@@ -1,0 +1,79 @@
+.container_grey{ 
+    background-color: #4D4E53;
+    font-family:sans-serif;
+}
+
+.tw_p{ 
+    margin-left: 2.5em;
+}
+
+.html_p{ 
+  margin: 6.4em 0em 6.4em 0em;
+}
+
+.border_class{ 
+    border-right: .1em solid black;
+    background-color: #FFF3CA;
+}
+
+.css_class{ 
+    border-right: .1em solid black;
+    background-color:#FDE5CC;
+}
+
+.wa_row{ 
+    padding: 4.8em 0em 4em 0em;
+    background-color: #E7B8AE;
+    border-bottom: .1em solid black;
+}
+
+.js_row{ 
+    padding: 4.8em 0em 4em 0em;
+    background-color:#F5CCCB;
+}
+/* first row end */
+
+.http_row{ 
+    padding: 3em 0em 1.6em 0em;
+    border-top:.1em solid black;
+    border-bottom:.1em solid black;
+}
+/* second_row_end       */
+.dt_row{ 
+    background-color: #CEE2F4;
+}
+
+.dns_col{
+     border-right:.1em solid black;
+     padding:.7em 0em .0em 0em;
+     border-bottom: .1em solid black;
+}
+
+.blank_col{ 
+    border-right:.1em solid black
+}
+
+.tls_col{ 
+    padding:.7em 0em 0em 0em;
+    padding:.7em 0em 0em 0em;
+    border-bottom: .1em solid black
+}
+/* third row end */
+.udp_col{ 
+    border-right:.1em solid black; 
+}
+
+.tcp_p{ 
+    margin-top:-.3em;
+}
+/* fourth row end */
+
+.ip_row{ 
+    border-top: .1em solid black;
+    background-color: #CEE2F4;
+}
+
+.tw_col{ 
+    padding-top: 16em;
+    background-color: #4D4E53;
+}
